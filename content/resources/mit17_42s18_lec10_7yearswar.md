@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-42-causes-and-prevention-of-war-spring-2018/a8a5d899343240739a9bfcf13cab3a3e_MIT17_42S18_lec10_7YearsWar.pdf
+file: /media/courses/17-42-causes-and-prevention-of-war-spring-2018/a8a5d899343240739a9bfcf13cab3a3e_MIT17_42S18_lec10_7YearsWar.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '17.42_S18 Lecture 10: The Anglo-French Seven Years'' War'
 uid: a8a5d899-3432-4073-9a9b-fcf13cab3a3e

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-42-causes-and-prevention-of-war-spring-2018/add2f76fc592308576e8ba29c6312b8a_MIT17_42S18_lec20-21_ColdWar.pdf
+file: /media/courses/17-42-causes-and-prevention-of-war-spring-2018/add2f76fc592308576e8ba29c6312b8a_MIT17_42S18_lec20-21_ColdWar.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '17.42_S18 Lecture 20-21: The Cold War and Korea'
 uid: add2f76f-c592-3085-76e8-ba29c6312b8a
