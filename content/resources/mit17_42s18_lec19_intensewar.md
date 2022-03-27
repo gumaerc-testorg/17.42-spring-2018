@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 26fed574-b057-3057-e80d-2ff17969e6d1
 resourcetype: Document
 title: '17.42_S18 Lecture 19: The Causes of Intense War'
 uid: ed555277-8edd-7853-0664-65d11bd322fe

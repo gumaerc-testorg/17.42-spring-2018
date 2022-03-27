@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 26fed574-b057-3057-e80d-2ff17969e6d1
 resourcetype: Document
 title: '17.42_S18 Lectures 12-14: The Origins of World War I, Part II'
 uid: bfd03c34-baaf-7a06-36e7-5ceb767b75d5

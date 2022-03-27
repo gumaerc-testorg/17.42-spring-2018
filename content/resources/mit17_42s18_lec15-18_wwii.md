@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 26fed574-b057-3057-e80d-2ff17969e6d1
 resourcetype: Document
 title: '17.42_S18 Lectures 15-18: The Origins of the Second World War'
 uid: fff2f35b-ae87-bc66-62a5-0c5d151ed128

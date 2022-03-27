@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fc8a6214-6ab1-0cd2-3caf-3ab1c1ec1bb5
 resourcetype: Document
 title: '17.42_S18 First Paper Assignment: Lebon Pace Fund Proposal'
 uid: 86e44256-e695-23db-a0d3-742f487c79be

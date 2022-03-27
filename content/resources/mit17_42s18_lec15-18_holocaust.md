@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 26fed574-b057-3057-e80d-2ff17969e6d1
 resourcetype: Document
 title: 17.42_S18 Lectures 15-18_Causes of the Holocaust
 uid: 5836b67c-0166-f8b9-fe97-b57b31e27997

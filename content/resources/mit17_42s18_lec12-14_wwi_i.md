@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 26fed574-b057-3057-e80d-2ff17969e6d1
 resourcetype: Document
 title: '17.42_S18 Lectures 12 - 14: The Origins of the First World War, Part I'
 uid: c2421476-61cd-f09d-be58-fa57ec451ca9

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bd65e359-cee2-46bf-867f-da1818575e1b
 resourcetype: Document
 title: '17.42_S18 Readings: Further Readings'
 uid: c95c530f-f210-9575-6ea5-44c4a8e661c9

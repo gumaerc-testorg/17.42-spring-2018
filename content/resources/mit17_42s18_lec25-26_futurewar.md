@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 26fed574-b057-3057-e80d-2ff17969e6d1
 resourcetype: Document
 title: '17.42_S18 Lectures 25-26: The Future of War and Solutions to War'
 uid: 5b70a4bc-81b4-df1d-2df5-bad9d4dee646

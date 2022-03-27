@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fc8a6214-6ab1-0cd2-3caf-3ab1c1ec1bb5
 resourcetype: Document
 title: '17.42_S18 Second Paper Assignment: A More Disastrous World War II'
 uid: 40ae5225-84ba-3a8e-0719-79d4ca95cb9e
