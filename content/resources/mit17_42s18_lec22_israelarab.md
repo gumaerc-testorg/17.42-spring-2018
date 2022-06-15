@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-42-causes-and-prevention-of-war-spring-2018/d54293bb2ebb8682a4bf1eaa423bc05e_MIT17_42S18_lec22_IsraelArab.pdf
+file: /courses/17-42-causes-and-prevention-of-war-spring-2018/d54293bb2ebb8682a4bf1eaa423bc05e_MIT17_42S18_lec22_IsraelArab.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

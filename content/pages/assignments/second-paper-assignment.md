@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information needed to complete the second paper
+  assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -38,6 +40,6 @@ For more great writing advice, MIT students should consult the [MIT Writing and 
 
 _Student Example_
 
-["A More Disastrous World War II" (PDF)]({{< baseurl >}}/resources/mit17_42s18_moredisastrouswwii)
+{{% resource_link 40ae5225-84ba-3a8e-0719-79d4ca95cb9e "\"A More Disastrous World War II\" (PDF)" %}}
 
 Note: This example appears courtesy of a MIT student and is anonymous by request.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-42-causes-and-prevention-of-war-spring-2018/ec9183e03eda1025f665b46b7e284bec_MIT17_42S18_lec19_MassDestruct.pdf
+file: /courses/17-42-causes-and-prevention-of-war-spring-2018/ec9183e03eda1025f665b46b7e284bec_MIT17_42S18_lec19_MassDestruct.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-42-causes-and-prevention-of-war-spring-2018/f9dd7d01c41ef6951def531f48ec577c_MIT17_42S18_lec10_GreatWars.pdf
+file: /courses/17-42-causes-and-prevention-of-war-spring-2018/f9dd7d01c41ef6951def531f48ec577c_MIT17_42S18_lec10_GreatWars.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

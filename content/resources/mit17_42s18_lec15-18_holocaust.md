@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-42-causes-and-prevention-of-war-spring-2018/5836b67c0166f8b9fe97b57b31e27997_MIT17_42S18_lec15-18_Holocaust.pdf
+file: /courses/17-42-causes-and-prevention-of-war-spring-2018/5836b67c0166f8b9fe97b57b31e27997_MIT17_42S18_lec15-18_Holocaust.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

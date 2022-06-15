@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-42-causes-and-prevention-of-war-spring-2018/035590cbbc067a10812f29f12975e953_MIT17_42S18_lec12-14_Prussian.pdf
+file: /courses/17-42-causes-and-prevention-of-war-spring-2018/035590cbbc067a10812f29f12975e953_MIT17_42S18_lec12-14_Prussian.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

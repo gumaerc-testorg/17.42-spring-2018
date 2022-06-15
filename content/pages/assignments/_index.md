@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section features the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -24,4 +25,4 @@ We require that you submit a finished draft of at least one of your longer paper
 
 The longer papers are due during Session 13 and Session 24.
 
-For detailed information on the graded papers, see [First Paper Assignment]({{< baseurl >}}/pages/assignments/first-paper-assignment) and [Second Paper Assignment]({{< baseurl >}}/pages/assignments/second-paper-assignment).
+For detailed information on the graded papers, see {{% resource_link 29b168cf-729a-8ac4-6710-1f100a520b62 "First Paper Assignment" %}} and {{% resource_link 310c422f-3a55-67c9-0598-7574d7514d48 "Second Paper Assignment" %}}.

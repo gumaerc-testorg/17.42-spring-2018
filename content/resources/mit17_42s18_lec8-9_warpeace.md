@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-42-causes-and-prevention-of-war-spring-2018/ae5dbd352d38cb63dc1205f85cc885f5_MIT17_42S18_lec8-9_WarPeace.pdf
+file: /courses/17-42-causes-and-prevention-of-war-spring-2018/ae5dbd352d38cb63dc1205f85cc885f5_MIT17_42S18_lec8-9_WarPeace.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
