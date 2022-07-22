@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section contains information needed to complete the second paper
+  assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: fc8a6214-6ab1-0cd2-3caf-3ab1c1ec1bb5
 title: Second Paper Assignment
 uid: 310c422f-3a55-67c9-0598-7574d7514d48
@@ -34,6 +40,6 @@ For more great writing advice, MIT students should consult the [MIT Writing and 
 
 _Student Example_
 
-["A More Disastrous World War II" (PDF)]({{< baseurl >}}/resources/mit17_42s18_moredisastrouswwii)
+{{% resource_link 40ae5225-84ba-3a8e-0719-79d4ca95cb9e "\"A More Disastrous World War II\" (PDF)" %}}
 
 Note: This example appears courtesy of a MIT student and is anonymous by request.

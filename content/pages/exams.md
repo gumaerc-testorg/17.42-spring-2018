@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section features study questions for the final exam.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 15ed2d23-de9b-73c8-cecd-a7c8e4581d72
 ---

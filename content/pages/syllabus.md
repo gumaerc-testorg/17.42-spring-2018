@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b97ae2d3-104a-e27b-0410-a593e882957b
 ---
@@ -84,7 +87,7 @@ Turabian, Kate L. _A Manual for Writers of Research Papers, Theses, and Disserta
 
 Turabian has the basic rules for formatting footnotes and other style rules. You will want to follow these rules so your writing looks spiffy and professional.
 
-For additional readings, see the [Readings]({{< baseurl >}}/pages/readings) section.
+For additional readings, see the {{% resource_link bd65e359-cee2-46bf-867f-da1818575e1b "Readings" %}} section.
 
 Grading Policy
 --------------
@@ -143,4 +146,4 @@ Two quizzes
 
 {{< tableclose >}}
 
-For more detail on the papers, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more detail on the papers, see the {{% resource_link fc8a6214-6ab1-0cd2-3caf-3ab1c1ec1bb5 "Assignments" %}} section.
