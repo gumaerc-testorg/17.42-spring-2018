@@ -5,6 +5,7 @@ file: /courses/17-42-causes-and-prevention-of-war-spring-2018/86e44256e69523dba0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
