@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/17-42-causes-and-prevention-of-war-spring-2018/40ae522584ba3a8e071979d4ca95cb9e_MIT17_42S18_MoreDisastrousWWII.pdf
+file_size: 84357
 file_type: application/pdf
 learning_resource_types:
 - Assignments
