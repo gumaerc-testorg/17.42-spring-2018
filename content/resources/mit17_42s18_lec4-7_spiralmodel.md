@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/17-42-causes-and-prevention-of-war-spring-2018/b69735c8bb826870def270e074fabfc8_MIT17_42S18_lec4-7_SpiralModel.pdf
+file_size: 542441
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/17-42-causes-and-prevention-of-war-spring-2018/86e44256e69523dba0d3742f487c79be_MIT17_42S18_LebonPeaceFund.pdf
+file_size: 94222
 file_type: application/pdf
 learning_resource_types:
 - Assignments

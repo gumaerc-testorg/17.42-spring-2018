@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/17-42-causes-and-prevention-of-war-spring-2018/a8a5d899343240739a9bfcf13cab3a3e_MIT17_42S18_lec10_7YearsWar.pdf
+file_size: 41450
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
