@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-42-causes-and-prevention-of-war-spring-2018/f062a0bde042b96f17dd3c180e9f5a88_MIT17_42S18_lec4-7_Mispercept.pdf
+file: /ol-ocw-studio-app/courses/17-42-causes-and-prevention-of-war-spring-2018/f062a0bde042b96f17dd3c180e9f5a88_MIT17_42S18_lec4-7_Mispercept.pdf
 file_size: 72883
 file_type: application/pdf
 learning_resource_types:
