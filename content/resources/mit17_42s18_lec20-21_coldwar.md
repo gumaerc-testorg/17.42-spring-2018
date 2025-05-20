@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/17-42-causes-and-prevention-of-war-spring-2018/add2f76fc592308576e8ba29c6312b8a_MIT17_42S18_lec20-21_ColdWar.pdf
+file: /courses/17-42-causes-and-prevention-of-war-spring-2018/add2f76fc592308576e8ba29c6312b8a_MIT17_42S18_lec20-21_ColdWar.pdf
 file_size: 49478
 file_type: application/pdf
 learning_resource_types:
