@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/17-42-causes-and-prevention-of-war-spring-2018/c242147661cdf09dbe58fa57ec451ca9_MIT17_42S18_lec12-14_WWI_I.pdf
+file: /courses/17-42-causes-and-prevention-of-war-spring-2018/c242147661cdf09dbe58fa57ec451ca9_MIT17_42S18_lec12-14_WWI_I.pdf
 file_size: 715038
 file_type: application/pdf
 learning_resource_types:

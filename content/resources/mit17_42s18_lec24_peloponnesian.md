@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/17-42-causes-and-prevention-of-war-spring-2018/95128af07f82a5b61f435d9c846c3db0_MIT17_42S18_lec24_Peloponnesian.pdf
+file: /courses/17-42-causes-and-prevention-of-war-spring-2018/95128af07f82a5b61f435d9c846c3db0_MIT17_42S18_lec24_Peloponnesian.pdf
 file_size: 53966
 file_type: application/pdf
 learning_resource_types:
