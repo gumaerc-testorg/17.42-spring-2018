@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-42-causes-and-prevention-of-war-spring-2018/ed5552778edd7853066465d11bd322fe_MIT17_42S18_lec19_IntenseWar.pdf
+file: /ol-ocw-studio-app/courses/17-42-causes-and-prevention-of-war-spring-2018/ed5552778edd7853066465d11bd322fe_MIT17_42S18_lec19_IntenseWar.pdf
 file_size: 40155
 file_type: application/pdf
 learning_resource_types:
