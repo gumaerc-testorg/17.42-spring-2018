@@ -29,7 +29,7 @@ Covered historical cases include the Peloponnesian and Seven Years wars, World W
 Communications Intensive Requirement
 ------------------------------------
 
-17.42 is a HASS Communications Intensive (CI) course, and so helps fulfill the HASS [CI](http://web.mit.edu/commreq/) requirement. Communications intensive subjects in the humanities, arts, and social sciences require at least 20 pages of writing divided among 3–5 assignments. Of these 3–5 assignments, at least one should be revised and resubmitted.
+17.42 is a HASS Communications Intensive (CI) course, and so helps fulfill the HASS {{% resource_link "e4bcad98-371c-41c2-9b15-00ff56125343" "CI" %}} requirement. Communications intensive subjects in the humanities, arts, and social sciences require at least 20 pages of writing divided among 3–5 assignments. Of these 3–5 assignments, at least one should be revised and resubmitted.
 
 17.42 requires 20 pages of writing, requires early submission of at least one paper, and includes two public speaking exercises in section. Sections will include fewer than 10 students.
 
@@ -62,22 +62,22 @@ _The 17.42 Film Society_
 
 A couple of optional evening film showings will be organized during the term on topics to be chosen by acclamation of the class. Topics could include the current danger of nuclear war, past and present religious conflict, the Cuban Missile Crisis, the Vietnam War, or other subjects. Some of the film to be shown include:
 
-_[Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb](https://www.imdb.com/title/tt0057012/?ref_=nv_sr_2)_. Directed by Stanley Kubrick. Black and white, 95 min. 1964.
+_{{% resource_link "babf3526-c490-489e-9c23-0c6f65a6d239" "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb" %}}_. Directed by Stanley Kubrick. Black and white, 95 min. 1964.
 
-_[Star Trek: Discovery (tv series)](https://www.imdb.com/title/tt5171438/?ref_=tt_ov_inf)_. Color, 60 mins. / episode. 2017–.
+_{{% resource_link "754fc246-7e1a-4530-900c-20d0d4b405d0" "Star Trek: Discovery (tv series)" %}}_. Color, 60 mins. / episode. 2017–.
 
-_[James Carroll's Constantine's Sword](https://www.imdb.com/title/tt0902270/?ref_=nv_sr_1)_. Directed by Oren Jacoby. Color, 93 min. 2007.
+_{{% resource_link "985d288d-635b-4887-a712-fe1c3f47f371" "James Carroll's Constantine's Sword" %}}_. Directed by Oren Jacoby. Color, 93 min. 2007.
 
 Readings
 --------
 
-Haffner, Sebastian. _The Meaning of Hitler_. Translated by Ewald Osers. Harvard University Press, 1983. ISBN: 9780674557758. \[Preview with [Google Books](https://books.google.com/books?id=k2-ZkIvt35QC&pg=PAfrontcover#v=onepage&q&f=false)\]
+Haffner, Sebastian. _The Meaning of Hitler_. Translated by Ewald Osers. Harvard University Press, 1983. ISBN: 9780674557758. \[Preview with {{% resource_link "4212842f-9f2c-43bc-a716-9ba8a282904b" "Google Books" %}}\]
 
-Ienaga, Saburō. _The Pacific War, 1931–1945: A Critical Perspective on Japan's Role in World War II by a Leading Japanese Scholar_. Pantheon Books, 1978. ISBN: 9780394734965. \[Preview with [Google Books](https://books.google.com/books?id=49bWRrBQP74C&pg=PAfrontcover#v=onepage&q&f=false)\]
+Ienaga, Saburō. _The Pacific War, 1931–1945: A Critical Perspective on Japan's Role in World War II by a Leading Japanese Scholar_. Pantheon Books, 1978. ISBN: 9780394734965. \[Preview with {{% resource_link "3133b05d-8fcb-453e-9ada-0882a731b7eb" "Google Books" %}}\]
 
-Iklé, Fred Charles. _Every War Must End_. Revised edition. Columbia University Press, 2005. ISBN: 9780231136679. \[Preview with [Google Books](https://books.google.com/books?id=WXswYABYlJ4C&pg=PAfrontcover#v=onepage&q&f=false)\]
+Iklé, Fred Charles. _Every War Must End_. Revised edition. Columbia University Press, 2005. ISBN: 9780231136679. \[Preview with {{% resource_link "d7cfd982-38c8-49c6-93bf-22cd8316d29a" "Google Books" %}}\]
 
-Rees, Sir Martin. _Our Final Hour: A Scientist's Warning: How Terror, Error, and Environmental Disaster Threaten Humankind's Future in this Century-On Earth and Beyond_. Basic Books, 2004. ISBN: 9780465068630. \[Preview with [Google Books](https://books.google.com/books?id=2NNfIXyttn4C&pg=PAfrontcover#v=onepage&q&f=false)\]
+Rees, Sir Martin. _Our Final Hour: A Scientist's Warning: How Terror, Error, and Environmental Disaster Threaten Humankind's Future in this Century-On Earth and Beyond_. Basic Books, 2004. ISBN: 9780465068630. \[Preview with {{% resource_link "6d1f162a-f870-45ca-abca-36dae1a4c235" "Google Books" %}}\]
 
 Thucydides. _History of the Peloponnesian War._ Translated by Rex Warner. Penguin Classics, 1972. ISBN: 9780140440393. 
 
