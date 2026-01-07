@@ -36,7 +36,7 @@ You should get a draft of your paper to your TA a week before the due date deadl
 
 You should footnote statements of fact, using an abbreviated footnote style if you wish. Footnotes do not count toward the length-limit on your paper so use them freely.
 
-For more great writing advice, MIT students should consult the {{% resource_link "8f1711e5-4453-4ffa-afec-152d7aa22dd9" "MIT Writing and Communication Center" %}}.
+For more great writing advice, MIT students should consult the [MIT Writing and Communication Center](https://cmsw.mit.edu/writing-and-communication-center/).
 
 _Student Example_
 
